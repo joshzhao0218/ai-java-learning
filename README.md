@@ -1,49 +1,48 @@
-# 高中 AI 学习 - Java 项目
+# High School AI Learning - Java Project
 
-## 📚 项目介绍
+## 📎 Introduction
 
-这是一个面向高中生的**人工智能学习项目**，使用 **Java** 编程语言实现各种 AI 算法和概念。
+This is an **Artificial Intelligence learning project** for high school students, implementing various AI algorithms and concepts using **Java** programming language.
 
-## 🎯 学习目标
+## 🏯 Learning Goals
 
-- 理解 AI 基础概念
-- 掌握 Java 编程技能
-- 动手实现经典 AI 算法
-- 培养计算思维
+- Understand AI fundamentals
+- Master Java programming skills
+- Implement classic AI algorithms hands-on
+- Develop computational thinking
 
-## 📁 项目结构
+## 📁 Project Structure
 
 ```
 ai-java-learning/
-├── README.md          # 项目说明
-├── src/               # Java 源代码
+├── README.md          # Project documentation
+└── src/               # Java source code
 │   └── com/
-│       └── josh/
-│           └── ai/
-└── docs/              # 学习文档
+│       └─┠ josh/
+└── ai/
+└── docs/              # Learning documentation
 ```
 
-## 🚀 快速开始
+## 🚀 Quick Start
 
-1. 克隆仓库
+1. Clone the repository
 ```bash
 git clone https://github.com/joshzhao0218/ai-java-learning.git
 ```
 
-2. 开始学习！
+2. Start learning!
 
-## 📝 学习路线
+## 📝 Learning Path
 
-1. **Java 基础** - 变量、循环、类与对象
-2. **算法入门** - 排序、搜索
-3. **AI 基础** - 机器学习概念
-4. **实战项目** - 小游戏、智能程序
+1. **Java Basics** - Variables, loops, classes & objects
+2. **Algorithm Basics** - Sorting, searching
+3. **AI Fundamentals** - Machine learning concepts
+4. **Hands-on Projects** - Mini games, intelligent programs
 
-## 👨‍💻 作者
+## 👨‍📻 Author
 
-**Josh Zhao** - 高中生 AI 爱好者
+**Josh Zhao** - High school AI enthusiast
 
 ---
 
-*加油！开启你的 AI 学习之旅！* 🦐
-
+*Let's go! Start your AI learning journey!* 🦨
