@@ -1,0 +1,40 @@
+# Compiled class files
+.class
+*.class
+
+# Package files
+*.jar
+*.war
+.ear
+
+# INE IDEs files
+.idea/
+*.iml
+*.ipr
+*.ipR
+.projects
+.claspath
+.intellihel.system/tasks.xml
+
+# Eclipse IDEs files
+.classpath
+.settings
+.project
+.external/tools/
+.bin/
+.path.class
+
+# NetBeans /gradle
+.nbproject
+.gradle/
+# Maven
+target/
+pom.xml.tag
+
+# Visual Studio Code
+.vscode/
+
+# Misc
+*.log
+*/*.jav
+!.gnorc
